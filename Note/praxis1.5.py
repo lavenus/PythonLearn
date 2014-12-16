@@ -20,9 +20,9 @@ numbersString = raw_input("Please input one of the number: ")
 numbers =  int(numbersString)
 
 # 2.根据公式进行计算数值
-numbersFially = ((numbers + 2) * 3 - 6) / 3-6
+numbersFially = ((numbers + 2) * 3 - 6) / 3
 
 if numbers == numbersFially:
-    print "YES"
+    print "YES，得到的结果是最初输入的这个",numbersFially
 else:
     print "NO"
