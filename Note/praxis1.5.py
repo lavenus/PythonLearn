@@ -26,3 +26,4 @@ if numbers == numbersFially:
     print "YES，得到的结果是最初输入的这个",numbersFially
 else:
     print "NO"
+
